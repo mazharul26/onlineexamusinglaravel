@@ -2,7 +2,7 @@
 
 ## About Online Exam Test
 
-*Admin Ristration
+*Admin Rigistration
 *Admin Create Exam
 *Admin Create Exam Question according by Exam.
 *Admin Create Role,Give permision
